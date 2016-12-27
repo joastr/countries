@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Anton|Catamaran|Open+Sans+Condensed:300|Crete+Round');
+
+h1 {
+	font-family: 'Crete Round', serif;
+	text-align: center;
+	color: #1a2b5e;
+	font-weight: 500;
+	margin: 110px auto;
+}
+
+li { 
+	font-family: 'Catamaran', sans-serif;
+	font-size: 1.2em;
+	margin-left: 40px;
+}
+
+.btn {
+	background-color: #1a2b5e;
+	color: white;
+	outline: none;
+	margin-left: 40px;
+}
+
+.btn:hover,
+.btn:focus,
+.btn:visited {
+	outline: none;
+	color: white;
+	background-color: #344b91;
+}
+
+h2 {
+	font-family: 'Crete Round', serif;
+	color: #1a2b5e;
+	margin-left: 40px;
+}
+
+img {
+	float: right;
+	margin-right: 200px;
+}
+	
+
